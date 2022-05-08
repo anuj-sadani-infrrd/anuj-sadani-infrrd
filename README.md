@@ -68,22 +68,22 @@ if __name__ == '__main__':
 
 ### Few things I have fond of
 
-<table>
-<tr align=center>
-<td>
-<img src="https://media.giphy.com/media/V0OggVqQxNIOI/giphy.gif" style="width: 80px">
+<table align=center width="100%">
+<tr align=center width="100%">
+<td style="width: 20%">
+<img src="https://media.giphy.com/media/V0OggVqQxNIOI/giphy.gif">
 </td>
-<td>
-<img src="https://media.giphy.com/media/ibvzyMTDAlcsb4Fm2q/giphy.gif" style="width: 80px">
+<td style="width: 20%">
+<img src="https://media.giphy.com/media/ibvzyMTDAlcsb4Fm2q/giphy.gif">
 </td>
-<td>
-<img src="https://media.giphy.com/media/AErExHJVxRbkm5hPkB/giphy.gif" style="width: 80px">
+<td style="width: 20%">
+<img src="https://media.giphy.com/media/AErExHJVxRbkm5hPkB/giphy.gif">
 </td>
-<td>
-<img src="https://media.giphy.com/media/RKApDdwsQ6jkwd6RNn/giphy.gif" style="width: 80px">
+<td style="width: 20%">
+<img src="https://media.giphy.com/media/RKApDdwsQ6jkwd6RNn/giphy.gif">
 </td>
-<td>
-<img src="https://media.giphy.com/media/BXjqytvu9bKzCUHdzz/giphy.gif" style="width: 80px">
+<td style="width: 20%">
+<img src="https://media0.giphy.com/media/o0vwzuFwCGAFO/giphy.gif">
 </td>
 </tr>
 
