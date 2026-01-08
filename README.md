@@ -2,7 +2,7 @@
 
 I believe in **People >= Process >= Technology**. If there is an off-balance between them, then I trust on **"Kamehameha"**
 
-[`<img align='right' src="architect-antropy.png" width="280" alt="Architecting Around Entropy">`](https://github.com/anuj-sadani-infrrd)
+<img align='center' src="architect-antropy.png" width="100%" alt="Architecting Around Entropy">
 
 <br>
 
@@ -110,9 +110,9 @@ if __name__ == '__main__':
 
 ### Interests & Passions
 
-|                                  Programming Philosophy                                  |                            Technology Trends                            |                          Product Strategy & Design Thinking                          |                           Exploring Distant Lands                           |                              Socializing                              |
-| :---------------------------------------------------------------------------------------: | :---------------------------------------------------------------------: | :----------------------------------------------------------------------------------: | :--------------------------------------------------------------------------: | :-------------------------------------------------------------------: |
-| 🧠 Clean code principles`<br>`System design patterns`<br>`Architecture best practices | 🤖 GenAI & LLMs`<br>`Cloud-native solutions`<br>`MLOps & automation | 🎯 Product roadmap alignment`<br>`Design thinking`<br>`Stakeholder collaboration | 🌍 Travel & exploration`<br>`Cultural experiences`<br>`Adventure seeking | 👥 Team building`<br>`Knowledge sharing`<br>`Community engagement |
+|                               Programming Philosophy                               |                        Technology Trends                        |                      Product Strategy & Design Thinking                      |                        Exploring Distant Lands                        |                           Socializing                           |
+| :--------------------------------------------------------------------------------: | :--------------------------------------------------------------: | :---------------------------------------------------------------------------: | :-------------------------------------------------------------------: | :-------------------------------------------------------------: |
+| Clean code principles<br />System design patterns<br />Architecture best practices | GenAI & LLMs<br />Cloud-native solutions<br />MLOps & automation | Product roadmap alignment<br />Design thinking<br />Stakeholder collaboration | Travel & exploration<br />Cultural experiences<br />Chilling with family | Team building<br />Knowledge sharing <br />Community engagement |
 
 <hr>
 
@@ -151,5 +151,6 @@ if __name__ == '__main__':
 </div>
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=anuj-sadani-infrrd&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anuj-sadani-infrrd&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuj-sadani-infrrd&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" />
 </div>
